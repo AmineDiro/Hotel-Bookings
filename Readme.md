@@ -14,3 +14,11 @@ Please follow these steps before running the jupyter notebooks
 3. Copy the file downloaded  in **./Models**
 
 You can create your branch or collaborate on the notebook !! 
+
+
+## To DO: 
+ - Cost sensitive algorithms
+ - Deeper Feature engineer ? 
+ - Hyperparameter tuning
+ - Analyzing results more deeply
+ 
