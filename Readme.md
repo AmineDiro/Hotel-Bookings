@@ -21,4 +21,10 @@ You can create your branch or collaborate on the notebook !!
  - Deeper Feature engineer ? 
  - Hyperparameter tuning
  - Analyzing results more deeply
- 
+
+ LEA : 
+  - Loss function logistic regression 
+ PAPA  
+  - kNN 
+ Amine : 
+ - Keras loss custom
