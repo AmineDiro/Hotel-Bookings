@@ -1,0 +1,8 @@
+,logistic_reg
+estimator,"(LogisticRegression(class_weight='balanced', n_jobs=-1), LogisticRegression(class_weight='balanced', n_jobs=-1), LogisticRegression(class_weight='balanced', n_jobs=-1), LogisticRegression(class_weight='balanced', n_jobs=-1), LogisticRegression(class_weight='balanced', n_jobs=-1), LogisticRegression(class_weight='balanced', n_jobs=-1), LogisticRegression(class_weight='balanced', n_jobs=-1), LogisticRegression(class_weight='balanced', n_jobs=-1), LogisticRegression(class_weight='balanced', n_jobs=-1), LogisticRegression(class_weight='balanced', n_jobs=-1))"
+mean_score,0.31907587073100435
+score,"{'fit_time': array([8.78650498, 6.57055497, 6.55296183, 6.68895769, 8.6275394 ,
+       6.74537802, 6.86748147, 8.54270864, 8.80918217, 6.60382318]), 'score_time': array([0.00922036, 0.01527548, 0.01366735, 0.01360083, 0.0086844 ,
+       0.01266599, 0.00964832, 0.00990868, 0.00958943, 0.0100162 ]), 'estimator': (LogisticRegression(class_weight='balanced', n_jobs=-1), LogisticRegression(class_weight='balanced', n_jobs=-1), LogisticRegression(class_weight='balanced', n_jobs=-1), LogisticRegression(class_weight='balanced', n_jobs=-1), LogisticRegression(class_weight='balanced', n_jobs=-1), LogisticRegression(class_weight='balanced', n_jobs=-1), LogisticRegression(class_weight='balanced', n_jobs=-1), LogisticRegression(class_weight='balanced', n_jobs=-1), LogisticRegression(class_weight='balanced', n_jobs=-1), LogisticRegression(class_weight='balanced', n_jobs=-1)), 'test_score': array([0.2810219 , 0.09936858, 0.07214937, 0.29404145, 0.91969542,
+       0.99126291, 0.20286527, 0.12316081, 0.06777036, 0.13942265])}"
+std_score,0.327294274512208
