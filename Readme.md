@@ -13,6 +13,6 @@ Please follow these steps before running the jupyter notebooks
 
 3. Copy the file downloaded  in **./Models**
 
-4. You can now compile the  notebook.
+4. You can now compile the whole notebook.
 
 You can create your branch or collaborate on the notebook !! 
